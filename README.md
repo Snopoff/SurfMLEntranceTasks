@@ -1,2 +1,2 @@
 # SurfMLEntranceTasks
-Solved entrance tests for surf ml school
+Solved entrance tasks for surf ml school
